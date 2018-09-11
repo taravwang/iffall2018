@@ -1,18 +1,18 @@
 h1{
 	text-align: center;
 	font-size:60px;
-	font-family: Domus Titling Extrabold;
+	font-family: "jaf-domus-titling-web";
 }
 
 h2{
 	text-align: center;
 	font-weight: bold; 
-	font-family: Domus Titling Extrabold;
+	font-family: "jaf-domus-titling-web";
 }
 p{
 	text-align: center;
 	font-size:16px;
-	font-family: Halyard Micro ;
+	font-family:"halyard-micro";
 
 }
 body {
@@ -22,22 +22,22 @@ body {
 p.extra{
 	font-size:18px;
 	color: #26C6DA  ;
-	font-family: Domus Titling Extrabold;
+	font-family: "jaf-domus-titling-web";
 }
 p.fun{
 	font-size:30px;
 	color: #FF5722  ;
-	font-family: Domus Titling Extrabold;
+	font-family: "jaf-domus-titling-web";
 }
 p.kanye{
 	font-size:17px;
 	color: #FFB300  ;
-	font-family: Domus Titling Extrabold;
+	font-family: "jaf-domus-titling-web";
 }
 p.poop{
 	font-size:23px;
 	color: #FF9800  ;
-	font-family: Domus Titling Extrabold;
+	font-family: "jaf-domus-titling-web";
 }
 .leftbox{ 
   background-color: #80DEEA  ;
