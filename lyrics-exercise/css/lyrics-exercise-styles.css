@@ -1,43 +1,47 @@
 h1{
 	text-align: center;
 	font-size:60px;
-	font-family: "jaf-domus-titling-web";
+	font-family: "jaf-domus-titling-extrabold-web";
 }
 
 h2{
 	text-align: center;
 	font-weight: bold; 
-	font-family: "jaf-domus-titling-web";
+	font-family: "jaf-domus-titling-extrabold-web";
 }
 p{
 	text-align: center;
 	font-size:16px;
 	font-family:"halyard-micro";
-
 }
+
 body {
 	background-color: white;
 	color: black;
 }
+
 p.extra{
 	font-size:18px;
 	color: #26C6DA  ;
-	font-family: "jaf-domus-titling-web";
+	font-family: "jaf-domus-titling-extrabold-web";
 }
+
 p.fun{
 	font-size:30px;
 	color: #FF5722  ;
-	font-family: "jaf-domus-titling-web";
+	font-family: "jaf-domus-titling-extrabold-web";
+
 }
 p.kanye{
 	font-size:17px;
 	color: #FFB300  ;
-	font-family: "jaf-domus-titling-web";
+	font-family: "jaf-domus-titling-extrabold-web";
+
 }
 p.poop{
 	font-size:23px;
 	color: #FF9800  ;
-	font-family: "jaf-domus-titling-web";
+	font-family: "jaf-domus-titling-extrabold-web";
 }
 .leftbox{ 
   background-color: #80DEEA  ;
