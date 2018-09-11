@@ -1,7 +1,9 @@
 h1{
 	text-align: center;
 	font-size:60px;
-	font-family: "jaf-domus-titling-web";
+	font-family: "jaf-domus-titling-web",sans-serif;
+	font-style: normal;
+	font-weight: 800;
 }
 
 h2{
@@ -30,23 +32,25 @@ p.extra{
 
 p.fun{
 	font-size:30px;
-	font-weight:800;
 	color: #FF5722  ;
-	font-family: "jaf-domus-titling-web";
+	font-family: "jaf-domus-titling-web",sans-serif;
+	font-style: normal;
+	font-weight: 800;
 
 }
 p.kanye{
 	font-size:17px;
 	color: #FFB300;
-	font-weight:800;
-	font-family: "jaf-domus-titling-web";
-
+	font-family: "jaf-domus-titling-web",sans-serif;
+	font-style: normal;
+	font-weight: 800;
 }
 p.poop{
 	font-size:23px;
 	color: #FF9800;
-	font-weight:800;
-	font-family: "jaf-domus-titling-web";
+	font-family: "jaf-domus-titling-web",sans-serif;
+	font-style: normal;
+	font-weight: 800;
 }
 .leftbox{ 
   background-color: #80DEEA;
