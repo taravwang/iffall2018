@@ -23,7 +23,9 @@ body {
 p.extra{
 	font-size:18px;
 	color: #26C6DA ;
-	font-family: "jaf-domus-titling-web-n8";
+	font-family: "jaf-domus-titling-web",sans-serif;
+	font-style: normal;
+	font-weight: 800;
 }
 
 p.fun{
