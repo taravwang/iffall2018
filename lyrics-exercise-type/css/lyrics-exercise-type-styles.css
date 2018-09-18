@@ -1,0 +1,71 @@
+h1{
+	text-align: center;
+	font-size:60px;
+	font-family: "jaf-domus-titling-web",sans-serif;
+	font-style: normal;
+	font-weight: 800;
+}
+
+h2{
+	text-align: center;
+	font-weight: bold; 
+	font-family: "jaf-domus-titling-web";
+}
+p{
+	text-align: center;
+	font-size:16px;
+	font-family:"halyard-micro";
+}
+
+body {
+	background-color: white;
+	color: black;
+}
+
+p.extra{
+	font-size:18px;
+	color: #26C6DA ;
+	font-family: "jaf-domus-titling-web",sans-serif;
+	font-style: normal;
+	font-weight: 800;
+}
+
+p.fun{
+	font-size:30px;
+	color: #FF5722  ;
+	font-family: "jaf-domus-titling-web",sans-serif;
+	font-style: normal;
+	font-weight: 800;
+
+}
+p.kanye{
+	font-size:17px;
+	color: #FFB300;
+	font-family: "jaf-domus-titling-web",sans-serif;
+	font-style: normal;
+	font-weight: 800;
+}
+p.poop{
+	font-size:25px;
+	color: #FF9800;
+	font-family: "jaf-domus-titling-web",sans-serif;
+	font-style: normal;
+	font-weight: 800;
+	text-transform: capitalize;
+}
+.leftbox{ 
+  background-color: #80DEEA;
+  position: absolute;
+  height: 275%;
+  width: 15%;
+  left: 0%;
+  top: 0%;
+}
+.rightbox{ 
+  background-color: #80DEEA  ;
+  position: absolute;
+  height: 275%;
+  width: 15%;
+  right: 0%;
+  top: 0%;
+}
