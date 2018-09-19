@@ -1,0 +1,76 @@
+header{
+	margin-bottom: 3rem;
+}
+
+p{
+	line-height: 1.6;
+}
+
+a.see-all{
+	font-size: 0.8em;
+	text-transform: uppercase;
+}
+
+li#game-of-thrones > h1{
+	font-size: 2.5rem;
+	font-weight: lighter;
+	border-top: 1px solid #000000;
+}
+
+li#unbreakable-kimmy-schmidt> h1{
+	font-size: 2.5rem;
+	font-weight: lighter;
+	border-top: 1px solid #000000;
+}
+
+section > h2{
+	font-size: 1rem;
+	text-transform: uppercase;
+	font-weight: lighter;
+}
+
+a > img {
+	width: 100%;
+}
+
+li.selected > a{
+	color: black;
+	font-weight: bold;
+
+}
+section.cast li{ /* space = descendant and > = child*/
+	 width:25%;
+}
+
+section.cast li div{
+	font-size: 0.8rem;
+}
+
+.cast img+div {
+	font-weight: bold;
+}
+
+.cast img+div+ div{
+	font-style: italic;
+}
+
+.seasons li:last-of-type:after{
+	content: "*";
+}
+
+.seasons:after{
+	content:"* In production";
+	font-size: 0.7rem;
+	color: #999;
+}
+
+
+
+
+
+
+
+
+
+
+
