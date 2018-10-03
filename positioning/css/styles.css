@@ -1,0 +1,36 @@
+.right {
+	float: right;
+	position: relative;
+}	
+
+.lowerright {
+	position: absolute;
+	top: 800px;
+	right: 400px;
+}
+
+.green {
+	background-color: green;
+	position: fixed;
+	top: 0;
+	right: 0;
+}
+
+.red{
+	
+	background-color: red;
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	z-index: 100;
+
+}
+
+.black{
+	background-color: black;
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%, 10px);
+	left: calc(50% + 10px);
+
+}
