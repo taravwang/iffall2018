@@ -194,7 +194,7 @@ a#btn_Coca-Cola {
 	font-size: 30px;
 	font-weight: 700;
 	text-align: center;
-	text-decoration-line: none;
+	text-decoration: none;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff3019+39,cf0404+74,cf0404+74,cf0404+74 */
 	background: #ff3019; /* Old browsers */
 	background: -moz-linear-gradient(top, #ff3019 39%, #cf0404 74%, #cf0404 74%, #cf0404 74%); /* FF3.6-15 */
@@ -299,6 +299,7 @@ a#btn_Cartoon{
 	font-family: 'Fjalla One', sans-serif;
 	letter-spacing: 0px;
 	color:black;
+	text-decoration: none;
 }
 
 a#btn_Network{
@@ -312,6 +313,7 @@ a#btn_Network{
 	font-family: 'Fjalla One', sans-serif;
 	letter-spacing: 0px;
 	color:black;
+	text-decoration: none;
 }
 
 a#btn_Cartoon:hover {
@@ -326,6 +328,7 @@ a#btn_Cartoon:hover {
 	font-family: 'Fjalla One', sans-serif;
 	color: white;
 	background: black;
+	text-decoration: none;
 }
 
 a#btn_Network:hover {
@@ -338,6 +341,7 @@ a#btn_Network:hover {
 	font-family: 'Fjalla One', sans-serif;
 	color: white;
 	background: black;
+	text-decoration: none;
 }
 
 a#btn_Exploding{
@@ -354,6 +358,7 @@ a#btn_Exploding{
 	font-family: 'Fjalla One', sans-serif;
 	letter-spacing: 0px;
 	color:#F15F30 ;
+	text-decoration: none;
 }
 
 a#btn_Kittens{
@@ -366,6 +371,7 @@ a#btn_Kittens{
 	font-family: 'Fjalla One', sans-serif;
 	letter-spacing: 0px;
 	color:#F13030;
+	text-decoration: none;
 }
 
 a#btn_Exploding:hover {
@@ -384,6 +390,7 @@ a#btn_Exploding:hover {
 	transform: translateY(-20px);
 	transition-duration: 1s;
 	color: white;
+	text-decoration: none;
 }
  
 a#facebook{
@@ -437,7 +444,7 @@ a#btn_TheTonightShow {
 	font-size: 35px;
 	font-weight: 700;
 	text-align: center;
-	text-decoration-line: none;	
+	text-decoration: none;	
 }
 
 a#btn_TheTonightShow:hover {
@@ -872,6 +879,7 @@ a#btn_foreflight{
 	text-decoration-line: none;
 	font-family: 'Arial', sans-serif;
 	color: black;
+	text-decoration: none;
 }
 a#btn_foreflight:hover{
 	display: inline-block;
