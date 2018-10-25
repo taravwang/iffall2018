@@ -1,6 +1,5 @@
 body{
 	width: 800px;
-	width: 90vw; 
 	margin: auto;
 }
 
@@ -11,7 +10,7 @@ body{
 }
 
 #fixed-size-grid-items ul{
-	padding-left: 0;
+	padding-left: none;
 }
 
  #fixed-size-grid-items aside{
