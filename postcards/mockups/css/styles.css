@@ -1,0 +1,19 @@
+body{
+	margin: auto;
+	display: block;
+	padding-top: 5em;
+	padding-bottom: 5em;
+}
+
+.phone {
+	width: 320px;
+	margin-right: 20px;
+	display: block;
+    margin: 0 auto;
+}
+
+.desk {
+	display: block;
+    margin: 0 auto;
+    height: 560px;
+}
