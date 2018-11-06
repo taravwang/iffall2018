@@ -126,7 +126,7 @@ div.text{
  	line-height: 120%;
 	}
 }
-@media (max-width: 800px) {
+@media (max-width: 850px) {
 
 div.text{
 	font-family: font-family: 'PT Serif', serif;
@@ -137,11 +137,11 @@ div.text{
 	text-align: center;
 	width: 28%;
 	padding-left:32%;
- 	padding-top: 44%;
+ 	padding-top: 45%;
  	line-height: 120%;
 	}
 }
-@media (max-width: 733px) {
+@media (max-width: 750px) {
 
 div.text{
 	font-family: font-family: 'PT Serif', serif;
@@ -156,7 +156,7 @@ div.text{
  	line-height: 120%;
 	}
 }
-@media (max-width: 650px) {
+@media (max-width: 670px) {
 
 div.text{
 	font-family: font-family: 'PT Serif', serif;
@@ -171,7 +171,7 @@ div.text{
  	line-height: 120%;
 	}
 }
-@media (max-width: 570px) {
+@media (max-width: 590px) {
 
 div.text{
 	font-family: font-family: 'PT Serif', serif;
@@ -186,7 +186,7 @@ div.text{
  	line-height: 120%;
 	}
 }
-@media (max-width: 500px) {
+@media (max-width: 520px) {
 body{
 	background-image: url("../photos/spirited_away.jpg");
 	background-repeat: no-repeat;
@@ -198,18 +198,18 @@ body{
 }
 div.text{
 	font-family: font-family: 'PT Serif', serif;
-	font-size:18pt;
+	font-size:17pt;
 	color: white;
 	font-weight: 400;
 	font-style: normal;
 	text-align: center;
 	width: 32%;
 	padding-left:40%;
- 	padding-top: 72%;
+ 	padding-top: 74%;
  	line-height: 120%;
 	}
 }
-@media (max-width: 450px) {
+@media (max-width: 470px) {
 div.text{
 	font-family: font-family: 'PT Serif', serif;
 	font-size:17pt;
@@ -224,7 +224,7 @@ div.text{
 	}
 }
 
-@media (max-width: 370px) {
+@media (max-width: 386px) {
 
 body{
 	background-image: url("../photos/spirited_away.jpg");
@@ -246,7 +246,37 @@ div.text{
 	text-align: center;
 	width: 40%;
 	padding-left:49%;
- 	padding-top: 100%;
+ 	padding-top: 105%;
  	line-height: 120%;
 	}
+}
+
+@media (max-width: 330px) {
+div.text{
+	font-family: font-family: 'PT Serif', serif;
+	font-size:17pt;
+	color: white;
+	font-weight: 400;
+	font-style: normal;
+	text-align: center;
+	width: 40%;
+	padding-left:49%;
+ 	padding-top: 110%;
+ 	line-height: 120%;
+	}
+}
+@media (max-height: 700px) {
+
+div.text{
+	font-family: font-family: 'PT Serif', serif;
+	font-size:17pt;
+	color: white;
+	font-weight: 400;
+	font-style: normal;
+	text-align: center;
+	width: 40%;
+	padding-left:41%;
+ 	padding-top: 90%;
+ 	line-height: 120%;
+}
 }

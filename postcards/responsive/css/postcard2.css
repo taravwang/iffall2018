@@ -260,7 +260,7 @@ div.text{
  	line-height: 130%;  
 }
 }
-@media (max-height: 650) {
+@media (max-height: 670px) {
 
 div.text{
 	font-family: font-family: 'PT Serif', serif;
