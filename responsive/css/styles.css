@@ -1,0 +1,151 @@
+html{
+	height: 100%;
+}
+
+a {
+	display: block;
+	position:fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: 100;
+	object-fit: contain;
+}
+
+body{
+	background-image: url("../photos/howls_moving_castle.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 100% 80%;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+div.text{
+	font-family: font-family: 'PT Serif', serif;
+	font-size:35pt;
+	font-weight: 400;
+	color: #3f523f;
+	text-align: center;
+	font-style: normal;
+	width: 38%;
+ 	margin: 30px;
+ 	padding-left: 2%;
+ 	padding-top: 5%;
+ 	line-height: 130%;
+}
+@media (max-width: 1240px) {
+
+div.text{
+	font-family: font-family: 'PT Serif', serif;
+	font-size:35pt;
+	font-weight: 400;
+	color: #3f523f;
+	text-align: center;
+	font-style: normal;
+	width: 35%;
+ 	margin: 30px;
+ 	padding-left: 2%;
+ 	padding-top: 8%;
+ 	line-height: 130%;
+	}
+}
+@media (max-width: 1100px) {
+
+div.text{
+	font-family: font-family: 'PT Serif', serif;
+	font-size:34pt;
+	font-weight: 400;
+	color: #3f523f;
+	text-align: center;
+	font-style: normal;
+	width: 33%;
+ 	margin: 30px;
+ 	padding-left: 2%;
+ 	padding-top: 8%;
+ 	line-height: 130%;
+	}
+}
+@media (max-width: 1024px) {
+
+div.text{
+	font-family: font-family: 'PT Serif', serif;
+	font-size:35pt;
+	font-weight: 400;
+	color: #3f523f;
+	text-align: center;
+	font-style: normal;
+	width: 70%;
+ 	margin: 30px;
+ 	padding-left: 15%;
+ 	padding-top: 6%;
+ 	line-height: 130%;
+	}
+}
+@media (max-width: 1018px) {
+
+div.text{
+	font-family: font-family: 'PT Serif', serif;
+	font-size:30pt;
+	font-weight: 400;
+	color: #3f523f;
+	text-align: center;
+	font-style: normal;
+	width: 70%;
+ 	margin: 30px;
+ 	padding-left: 15%;
+ 	padding-top: 6%;
+ 	line-height: 130%;
+	}
+}
+
+@media (max-width: 1000px) {
+
+div.text{
+	font-family: font-family: 'PT Serif', serif;
+	font-size:27pt;
+	font-weight: 400;
+	color: #3f523f;
+	text-align: center;
+	font-style: normal;
+	width: 30%;
+ 	margin: 30px;
+ 	padding-left: 2%;
+ 	padding-top: 8%;
+ 	line-height: 130%;
+	}
+}   
+@media (max-width: 999px) {
+
+div.text{
+	font-family: font-family: 'PT Serif', serif;
+	font-size:27pt;
+	font-weight: 400;
+	color: #3f523f;
+	text-align: center;
+	font-style: normal;
+	width: 70%;
+ 	margin: 30px;
+ 	padding-left: 12%;
+ 	padding-top: 6%;
+ 	line-height: 130%;
+	}
+}
+@media (max-width: 320px) {
+
+div.text{
+	font-family: font-family: 'PT Serif', serif;
+	font-size:20pt;
+	font-weight: 400;
+	color: #3f523f;
+	text-align: center;
+	font-style: normal;
+	width: 60%;
+ 	margin: 30px;
+ 	padding-left: 12%;
+ 	padding-top: 8%;
+ 	line-height: 130%;
+	}
+}
