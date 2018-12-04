@@ -5,6 +5,15 @@ body{
 	margin-right: 20%;
 }
 
+/*a{
+	color:black;
+	text-decoration: none; 
+	font-family: neue-haas-unica, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 25px;
+}*/
+
 .link{
 	color:black;
 	text-decoration: none; 
@@ -25,6 +34,17 @@ body{
 	float: right;
 }
 
+.leftarrow{
+	color:black;
+	text-decoration: none; 
+	font-family: neue-haas-unica, sans-serif;
+	font-weight: 100;
+	font-style: normal;
+	font-size: 25px;
+	text-align: left;
+	float: left;
+}
+
 
 p{
 	font-family: neue-haas-unica, sans-serif;
@@ -32,29 +52,27 @@ p{
 	font-style: normal;
 	font-size: 15px;
 	width: 45%;
-	padding-left:30px;
-	padding-top: 40px; 
-	padding-bottom: 50px;
-	float:right;
+	padding-left:30px; 
+	padding-bottom: 30px;
 }
 
 .box {
 	padding-right: 11px;
 	width: 100%;
 	margin: auto;
-	height: 2200px;
+	height: 1565px;
 	margin-top: 0;
 	padding-bottom: 3.2em;
 }
 
 .left {
-	float: right;
+	float: left;
 	width: 46%;
 	padding-left: 30px;
 }
 
 img {
-	float: left;
+	float: right;
 	width: 46%;
 	padding-bottom: 150px;
 }
@@ -70,5 +88,4 @@ footer{
 	font-size: 15px;
 	padding-left: 11px;
 	padding-top:3px;
-	padding-bottom: 3em;
 }
