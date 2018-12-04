@@ -51,7 +51,7 @@ p{
 	padding-right: 11px;
 	width: 100%;
 	margin: auto;
-	height: 2200px;
+	height: 2400px;
 	margin-top: 0;
 	padding-bottom: 3.2em;
 }
@@ -84,7 +84,7 @@ footer{
 
 @media (max-width:1400px) {
 	.box {
-	height: 2000px;
+	height: 2300px;
 	}
 }
 
